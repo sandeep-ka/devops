@@ -20,3 +20,12 @@ Dependecies
      Restart the Tomcat.
      Access application at http://localhost:8080/SpringMVCPagination/viewemp
      
+     
+  SQL : - 
+  create table Emp99 (
+   id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    salary INT,
+    designation VARCHAR(255)
+);
+     
